@@ -31,8 +31,11 @@ const SpecialOffer = () => {
         Our commitment to meticulous detail and exceptional 
         quality guarantees your complete satisfaction.
         </p>
-        <div className='mt-11'>
-          <Button label="View Details" />
+        <div className='mt-11 flex flex-wrap gap-4'>
+          <Button label="Shop Now" iconURL={arrowRight} />
+          <Button label="Learn More" backgroundColor="bg-white"
+            borderColor="border-slate-gray"
+          />
         </div>
       </div>
     </section>

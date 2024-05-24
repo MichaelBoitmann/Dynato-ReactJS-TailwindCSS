@@ -16,20 +16,20 @@ const SpecialOffer = () => {
       <div className='flex flex-1 flex-col'>
         <h2 className="font-palanquin text-4xl capitalize font-bold 
         lg:max-w-lg">
-          We Provide You
-          <span className='text-coral-red'> Super</span>
-          <span className='text-coral-red'> Quality</span> Shoes
-
+          <span className='text-coral-red'> Limited Edition </span> 
+            Deal
         </h2>
         <p className="font-montserrat text-slate-gray text-lg 
         leading-8 mt-6 mb-14 sm:max-w-sm">
-          Ensuring premium comfort and style, our meticulously 
-          crafter footwear is designed to elevate your experience, 
-          providing you with unmatched quality, innovation, and a 
-          touch of elegance.
+          Join the ultimate shopping spree and uncover amazing   
+          deals, top picks, and unbeatable savings. Experience the  
+          best in value and style, transforming your shopping 
+          adventure into an unforgettable journey for all ages. 
+          Don’t miss out!
         </p>
-        <p className='mt-6 lg:max-w-lg info-text'>Our dedication to 
-        detail and excellence ensures your satisfaction.
+        <p className='mt-6 lg:max-w-lg info-text'>
+        Our commitment to meticulous detail and exceptional 
+        quality guarantees your complete satisfaction.
         </p>
         <div className='mt-11'>
           <Button label="View Details" />

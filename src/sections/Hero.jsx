@@ -36,8 +36,8 @@ const Hero = () => {
           <Button label="Shop now" iconURL={arrowRight} />
 
           <div className="flex justify-start items-start flex-wrap w-full mt-20 gap-16">
-            {statistics.map((stat, index) => (
-              <div key={index}>
+            {statistics.map((stat) => (
+              <div key={stat}>
                 <p className="text-4xl font-palanquin font-bold">
                   {stat.value}
                 </p>

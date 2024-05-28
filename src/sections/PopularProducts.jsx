@@ -12,7 +12,8 @@ const PopularProducts = () => {
             Popular
           </span> Products
         </h2>
-        <p className='lg:max-w-lg mt-2 font-montserrat text-slate-gray'>Transform your workout with Nike's exceptional shoes, blending 
+        <p className='lg:max-w-lg mt-2 font-montserrat text-slate-gray'>
+        Transform your workout with Nike's exceptional shoes, blending 
         cutting-edge technology and sleek design. Feel the perfect fusion of 
         comfort and style, tailored to elevate your performance and redefine 
         your athletic experience.

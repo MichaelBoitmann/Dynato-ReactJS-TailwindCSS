@@ -1,4 +1,4 @@
-import React from 'react'
+import { star } from "../assets/icons"
 
 const ServiceCard = ({ imgURL, label, subtext }) => {
   return (

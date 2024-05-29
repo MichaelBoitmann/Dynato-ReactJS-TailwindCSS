@@ -14,7 +14,7 @@ const Hero = () => {
     <section
       id="home"
       className='w-full flex xl:flex-row sm:flex-auto flex-col justify-center 
-      min-h-screen gap-10 max-container'
+      min-h-screen gap-10 max-container ml-10 pr-10'
     >
       <div className='relative xl:w-2/5 flex flex-col justify-center 
       items-start w-full max-xl:padding-x pt-28'>

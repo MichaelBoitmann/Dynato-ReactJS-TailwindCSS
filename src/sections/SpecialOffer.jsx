@@ -21,7 +21,7 @@ const SpecialOffer = () => {
             Deal
         </h2>
         <p className="font-montserrat text-slate-gray text-lg 
-        leading-8 mt-6 mb-14 sm:max-w-sm">
+                      leading-8 mt-6 mb-14 sm:max-w-sm">
           Join the ultimate shopping spree and uncover amazing   
           deals, top picks, and unbeatable savings. Experience the  
           best in value and style, transforming your shopping 
@@ -29,8 +29,8 @@ const SpecialOffer = () => {
           Don’t miss out!
         </p>
         <p className='mt-6 lg:max-w-lg info-text'>
-        Our commitment to meticulous detail and exceptional 
-        quality guarantees your complete satisfaction.
+          Our commitment to meticulous detail and exceptional 
+          quality guarantees your complete satisfaction.
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
           <Button label="View Details" iconURL={arrowRight} />

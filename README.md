@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="./sr"
+  <img src="./src/git_image/main_readme.png" />
   <h3 align="center">ReactJS and TailwindCSS in Tango</h3>
   <div align="center">
 

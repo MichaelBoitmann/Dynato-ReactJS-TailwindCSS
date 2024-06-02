@@ -407,14 +407,3 @@ export default {
   plugins: [],
 }
 ```
-
-</details>
-
-## <a name="links">🔗 Links</a>
-
-- Assets used in the project are [here](https://drive.google.com/file/d/1ccqjc8gJ7CLvXT_vUhVT4Gmys-Ze13FK/view)
-- [Tailwind Play](https://play.tailwindcss.com/)
-
-
-
-#

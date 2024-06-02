@@ -22,7 +22,7 @@
 
 This repository contains the code corresponding to an in-depth learning from  <a href="https://github.com/MichaelBoitmann/Dynato-ReactJS-TailwindCSS/tree/main" target="_blank"></a>. 
 
-Like learning this coding exercise by walking thru in [Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3-4) and [ReactJS](https://react.dev/blog/2023/03/16/introducing-react-dev)
+Like learning this coding exercise by walking thru [Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3-4) and [ReactJS](https://react.dev/blog/2023/03/16/introducing-react-dev) online documentation.
 
 ## <a name="introduction">🤖 Introduction</a>
 

@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <h3 align="center">TailwindCSS Crash Course</h3>
+  <h3 align="center">ReactJS and TailwindCSS in Tango</h3>
   <div align="center">
     Build this project step by step with our detailed tutorial on 
     <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank">

@@ -30,7 +30,7 @@ Understand Tailwind CSS in applying on ReactJS in two parts by first learning fu
 
 Thru the process of this website, bugs and unexpected error arises which is good as part of my learning skills set. JS Mastery and Stackoverflow Community definitely serves a big help 
 
-JS Mastey <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+Join JSMastery @ Discord Apps 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -406,3 +406,14 @@ export default {
   plugins: [],
 }
 ```
+
+## <a name="links">🕸️ Links</a>
+
+## <a name="future-upgrade">🕸️ Future Upgrade</a>
+
+1. Routing of each Nav Bar with working page
+2. Working Login and Logout
+3. Improvement on Responsive Screen sizes
+4. Adding Stripe technology to be able to purchase the items
+5. Additional items other than shoes
+6. Working 

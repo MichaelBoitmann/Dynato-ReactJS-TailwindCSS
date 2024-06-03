@@ -16,9 +16,9 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+7. 🚀 [Future Upgrade](#future-upgrade)
 
-## 🚨 Tutorial
+## 🚨 Learning Point
 
 This repository contains the code corresponding to an in-depth learning from  <a href="https://github.com/MichaelBoitmann/Dynato-ReactJS-TailwindCSS/tree/main" target="_blank"></a>. 
 
@@ -26,16 +26,16 @@ Like learning this coding exercise by walking thru [Tailwind CSS](https://tailwi
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Master Tailwind CSS in two parts by first learning fundamentals, advanced techniques, and theming. Then, build a stunning Nike landing page, applying learned skills to create a visually impressive website.
+Understand Tailwind CSS in applying on ReactJS in two parts by first learning fundamentals, advanced techniques, and theming. Then, build a stunning landing page, applying learned skills to create a visually impressive website.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+Thru the process of this website, bugs and unexpected error arises which is good as part of my learning skills set. JS Mastery and Stackoverflow Community definitely serves a big help 
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+JS Mastey <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Tailwind CSS
-- React.js
+- React.JS
 
 ## <a name="features">🔋 Features</a>
 
@@ -45,7 +45,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Best Practices**: Learn Tailwind's best practices for efficient and maintainable code.
 
-👉 **Theming**:Explore techniques to add different themes to your website using Tailwind CSS.
+👉 **Theming**: Explore techniques to add different themes to your website using Tailwind CSS.
 
 👉 **JavaScript-like Tasks with Tailwind**: Discover how Tailwind CSS can be used to achieve tasks that typically require JavaScript code
 
@@ -84,8 +84,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/nike_landing_page.git
-cd nike_landing_page
+git clone https://github.com/MichaelBoitmann/Dynato-ReactJS-TailwindCSS.git
+cd dynato
 ```
 
 **Installation**

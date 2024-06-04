@@ -104,6 +104,16 @@ npm install
 npm start
 ```
 
+## <a name="vscode-theme">🎨 VSCode Theme And Extensions :</a> 
+- Auto Import
+- Glasslt-VSC
+- Material Icon theme
+- Simple React Snippets
+- One Dark Palenight
+- Prettier Code Formatter
+- Tailwind CSS IntelliSense
+
+
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 ## <a name="snippets">🕸️ Snippets</a>

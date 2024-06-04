@@ -1,7 +1,9 @@
 <div align="center">
   <h1> React.JS + Tailwind + Vite</h1>
   <br />
-  <img src="./src/git_image/main_readme.png" />
+  <a href="https://michaelboitmann.github.io/Dynato-ReactJS-TailwindCSS/" target="_blank">
+    <img src="./src/git_image/main_readme.png" />
+  </a>
   <h3 align="center">ReactJS and TailwindCSS in Tango</h3>
   <div align="center">
 

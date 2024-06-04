@@ -1,4 +1,5 @@
 <div align="center">
+  <h1> React.JS + Tailwind + Vite</h1>
   <br />
   <img src="./src/git_image/main_readme.png" />
   <h3 align="center">ReactJS and TailwindCSS in Tango</h3>
@@ -416,4 +417,5 @@ export default {
 3. Improvement on Responsive Screen sizes
 4. Adding Stripe technology to be able to purchase the items
 5. Additional items other than shoes
-6. Working 
+6. Working on some animation on each page
+7. Working Bar line when page is on smaller screen
